@@ -152,4 +152,4 @@ findViewById(R.id.btn_retour).setOnClickListener(v -> finish());
 `finish()` ferme `Screen2Activity` et revient automatiquement à `MainActivity` sans en créer une nouvelle instance.
 
 ---
-*Projet réalisé dans le cadre d'un apprentissage Android — Beni Mellal 🏔️*
+*Projet réalisé dans le cadre d'un apprentissage Android — AMAR SAAD*
